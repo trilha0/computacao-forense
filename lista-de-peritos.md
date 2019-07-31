@@ -122,7 +122,7 @@ REGIÃO CENTRO-OESTE
     * BRASÍLIA		 
 		 
 	     * [Rafael Ferraz (Pentester e Perito Forense) ](https://www.linkedin.com/in/rafael-ferraz-529b7a4a)
-
+	     * [Marcos Braga (Perito em Informática e Banco de Dados Oracle) ](https://www.linkedin.com/in/marcosaureliobraga)
 
 
 REGIÃO SUDESTE
